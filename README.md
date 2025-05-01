@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nojood</h1>
-<h3 align="center">A passionate frontend developI'm a software engineer crafting smooth and meaningful experiences for the web and mobile, driven by curiosity and a passion for learning.er from India</h3>
+<h3 align="center">I'm a software engineer crafting smooth and meaningful experiences for the web and mobile, driven by curiosity and a passion for learning</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
