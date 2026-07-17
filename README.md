@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nojood</h1>
 
 <p align="center">
-  <strong>Software Engineer | Full-Stack Development | Enterprise Systems & Integration</strong>
-</p>
-
-<p align="center">
   I build reliable, accessible, and performance-focused web applications that support real operational workflows.
 </p>
 
